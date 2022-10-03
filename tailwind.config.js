@@ -8,6 +8,9 @@ module.exports = {
     colors: {
       "taupe": "#F9F7F1",
     },
+    fontFamily: {
+      "primary": ["Sohne"],
+    },
     extend: {},
   },
   plugins: [],

@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Sohne';
+    src: url('/assets/fonts/Söhne-Extraleicht.otf');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sohne';
+    src: url('/assets/fonts/Söhne-Leicht.otf');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sohne';
+    src: url('/assets/fonts/Söhne-Buch.otf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sohne';
+    src: url('/assets/fonts/Söhne-Kräftig.otf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sohne';
+    src: url('/assets/fonts/Söhne-Dreiviertelfett.otf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sohne';
+    src: url('/assets/fonts/Söhne-Halbfett.otf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sohne';
+    src: url('/assets/fonts/Söhne-Fett.otf');
+    font-weight: 700;
+    font-style: normal;
+}
